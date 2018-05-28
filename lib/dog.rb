@@ -1,3 +1,3 @@
 # Your code goes here!
-initialize(Dog)
-
+class Dog
+end
