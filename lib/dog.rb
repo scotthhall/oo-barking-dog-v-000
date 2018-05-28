@@ -6,5 +6,5 @@ class Dog
   def Dog
     @Dog
   end
-    
+
   end
